@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+#About me.
 # 🚀 Building Interactive and Scalable Applications
 
 ## Technologies:
