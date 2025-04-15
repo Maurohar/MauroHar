@@ -3,7 +3,7 @@
 
 ## Technologies:
 
-- 🚀 JavaScript - React
+- 🚀 JavaScript - C++ - React 
 - 🔧 Node.js - Express - MongoDB
 - 🎨 HTML - CSS
 
