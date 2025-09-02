@@ -3,8 +3,8 @@
 
 ## Technologies:
 
-- 🚀 JavaScript - C++ - React 
-- 🔧 Node.js - Express - MongoDB
+- 🚀 JavaScript - React - VUE
+- 🔧 Node.js - Express - MongoDB - SQL  - C++
 - 🎨 HTML - CSS
 
 I specialize in front-end development and am expanding my expertise in back-end technologies to build full-stack applications. Passionate about crafting efficient, scalable, and user-friendly solutions.
