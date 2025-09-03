@@ -5,7 +5,7 @@
 
 - 🚀 JavaScript - React - VUE
 - 🔧 Node.js - Express - MongoDB - SQL  - C++
-- 🎨 HTML - CSS
+- 🎨 HTML - CSS - Tailwind - Bootstrap
 
 I specialize in front-end development and am expanding my expertise in back-end technologies to build full-stack applications. Passionate about crafting efficient, scalable, and user-friendly solutions.
 
@@ -15,7 +15,7 @@ Always open to learning and collaboration. If you're interested in working toget
 
 🌍 Based in Argentina  
 🛠️ Currently working on **Armor Template Team**  
-🎯 Learning & improving: Node.js - React - Express - Full-Stack Development
+🎯 Learning & improving: Node.js - React - Express.js - Full-Stack Development
 
 ### Skills
 
