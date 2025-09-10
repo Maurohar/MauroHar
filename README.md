@@ -15,7 +15,7 @@ Always open to learning and collaboration. If you're interested in working toget
 
 🌍 Based in Argentina  
 🛠️ Currently working on **Armor Template Team**  
-🎯 Learning & improving: Node.js - React - Express.js - Full-Stack Development
+🎯 Learning & improving: Node.js - Javascript - Express.js - Full-Stack Development
 
 ### Skills
 
